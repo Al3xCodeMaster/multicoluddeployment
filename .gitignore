@@ -1,0 +1,15 @@
+#  Local .terraform directories
+**/.terraform/*
+*.hcl
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# GCP and Amazon credentials
+
+*.pem
+*.json
